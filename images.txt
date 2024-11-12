@@ -1,1 +1,1 @@
-onething1/wxedge
+ghcr.io/cryptomator/cli

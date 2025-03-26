@@ -1,1 +1,1 @@
-nvidia/cuda:12.2-base-ubuntu20.04
+jrottenberg/ffmpeg:4.4-ubuntu20.04

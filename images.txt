@@ -1,1 +1,1 @@
-jrottenberg/ffmpeg:4.4-ubuntu20.04
+jrottenberg/ffmpeg

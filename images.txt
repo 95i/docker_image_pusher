@@ -1,1 +1,1 @@
-jrottenberg/ffmpeg
+ghcr.io/containeroo/alpine-toolbox:2.7.9

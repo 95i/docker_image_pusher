@@ -1,1 +1,1 @@
-ghcr.io/containeroo/alpine-toolbox:2.7.9
+openlistteam/openlist:latest

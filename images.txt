@@ -1,1 +1,1 @@
-garybowers/iventoy:latest
+xubiaolin/zerotier-planet:latest

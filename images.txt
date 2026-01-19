@@ -1,1 +1,1 @@
-xubiaolin/zerotier-planet:latest
+openlistteam/openlist

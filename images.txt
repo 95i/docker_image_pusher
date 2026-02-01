@@ -1,1 +1,3 @@
-livekit/generate
+livekit/caddyl4
+livekit/livekit-server:latest
+redis:7-alpine

@@ -1,3 +1,1 @@
-livekit/caddyl4
-livekit/livekit-server:latest
-redis:7-alpine
+registry.cn-hangzhou.aliyuncs.com/argo_study/vocechat-server 

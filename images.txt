@@ -1,2 +1,1 @@
-outofcoffee/corebot
-jordan/rundeck
+node:18-alpine

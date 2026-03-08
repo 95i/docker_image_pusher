@@ -1,1 +1,1 @@
-node:20-alpine
+sulimu/qq-farm-bot:latest

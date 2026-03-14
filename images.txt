@@ -1,2 +1,2 @@
 bde2020/hadoop-namenode
-pull bde2020/hadoop-datanode
+bde2020/hadoop-datanode

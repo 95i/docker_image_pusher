@@ -1,1 +1,1 @@
-node:lts-bullseye-slim
+sequenceiq/hadoop-docker:latest

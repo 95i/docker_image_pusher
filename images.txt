@@ -1,1 +1,2 @@
-sequenceiq/hadoop-docker:latest
+bde2020/hadoop-namenode
+pull bde2020/hadoop-datanode

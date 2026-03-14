@@ -1,2 +1,1 @@
-bde2020/hadoop-namenode
-bde2020/hadoop-datanode
+ apache/hadoop:3

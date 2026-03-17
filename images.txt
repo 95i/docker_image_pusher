@@ -1,1 +1,1 @@
- apache/hadoop:3
+ghcr.io/usagi-org/ai-goofish:latest

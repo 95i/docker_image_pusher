@@ -1,1 +1,1 @@
-ghcr.io/usagi-org/ai-goofish:latest
+113.45.133.84:5000/bds-voucher-service:latest

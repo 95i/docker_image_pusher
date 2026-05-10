@@ -1,2 +1,2 @@
-wantcat/trendradar:latest
-wantcat/trendradar-mcp:latest
+ghcr.io/666ghj/bettafish:latest
+postgres:15

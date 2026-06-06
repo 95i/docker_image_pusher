@@ -1,10 +1,1 @@
-mysql:8.4.5
-adminer:5.3.0-standalone
-redis:8.0.2-bookworm
-redis/redisinsight:2.70
-zlmediakit/zlmediakit:master
-jitsi/prosody:prosody-13.0.2
-jitsi/jvb:jvb-2.3-262-gd2dc4df00-1
-jitsi/jicofo:jicofo-1.0-1167-1
-jitsi/web:web-1.0.8954-1
-nginx:1.29.0-alpine3.22
+bellsoft/liberica-openjdk-debian:21.0.8

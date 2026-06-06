@@ -1,3 +1,13 @@
-bellsoft/liberica-openjdk-debian:21.0.8
-pytorch/pytorch:2.9.0-cuda12.8-cudnn9-devel
-docker.io/library/maven:3.9.11-eclipse-temurin-21-alpine
+emqx/emqx:5.8.7
+gpustack/gpustack:v2.1.2
+apache/kafka:3.8.0
+milvusdb/milvus:v2.6.0
+minio/minio:RELEASE.2025-04-22T22-12-26Z
+nacos/nacos-server:v2.5.1
+nodered/node-red:latest
+postgres:18
+redis:7.4.8
+ossrs/srs:5
+tdengine/tsdb:3.3.8.4
+tdengine/tdengine:3.3.0.0
+zlmediakit/zlmediakit:master

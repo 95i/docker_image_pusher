@@ -1,1 +1,2 @@
 bellsoft/liberica-openjdk-debian:21.0.8
+pytorch/pytorch:2.9.0-cuda12.8-cudnn9-devel

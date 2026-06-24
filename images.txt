@@ -1,1 +1,1 @@
-python:3.12-slim
+sin29-system-frontend:latest

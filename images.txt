@@ -1,1 +1,1 @@
-sin29-system-frontend:latest
+openlistteam/openlist:latest

@@ -1,1 +1,2 @@
-openlistteam/openlist:latest
+wantcat/trendradar-mcp:latest
+wantcat/trendradar:latest

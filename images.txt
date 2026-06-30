@@ -1,1 +1,1 @@
-python:3.14-slim
+docker.io/library/atri-bot-app:latest

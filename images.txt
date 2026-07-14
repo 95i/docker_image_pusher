@@ -1,1 +1,1 @@
-docker.io/library/atri-bot-app:latest
+weishaw/sub2api:latest

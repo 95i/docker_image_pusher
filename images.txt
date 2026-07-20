@@ -1,1 +1,16 @@
-redis:8-alpine
+ghcr.io/stoatchat/file-server:v0.13.8
+docker.io/mongo 
+ghcr.io/stoatchat/crond:v0.13.8
+docker.io/caddy
+docker.io/rabbitmq:4 
+ghcr.io/stoatchat/pushd:v0.13.8
+docker.io/minio/mc
+ghcr.io/stoatchat/gifbox:v0.13.8
+ghcr.io/stoatchat/events:v0.13.8
+ghcr.io/stoatchat/livekit-server:v1.9.13
+ghcr.io/stoatchat/for-web:746bee5 
+ghcr.io/stoatchat/proxy:v0.13.8
+ghcr.io/stoatchat/voice-ingress:v0.13.8
+docker.io/minio/minio
+docker.io/eqalpha/keydb
+ghcr.io/stoatchat/api:v0.13.8

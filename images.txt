@@ -1,6 +1,1 @@
-postgres:16-alpine
-clamav/clamav:1.4
-rust:bookworm
-debian:bookworm-slim
-node:24-alpine
-nginxinc/nginx-unprivileged:1.27-alpine
+livekit/egress:latest

@@ -1,1 +1,1 @@
-weishaw/sub2api:latest
+postgres:18-alpine

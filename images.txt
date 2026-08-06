@@ -1,1 +1,1 @@
-clamav:1.4
+caddy:2-alpine

@@ -1,1 +1,1 @@
-postgres:18-alpine
+clamav:1.4

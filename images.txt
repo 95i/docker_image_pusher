@@ -1,1 +1,1 @@
-caddy:2-alpine
+openlistteam/openlist:latest

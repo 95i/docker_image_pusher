@@ -1,3 +1,6 @@
+mall/mall-admin:1.0-SNAPSHOT
+mall/mall-search:1.0-SNAPSHOT
+mall/mall-portal:1.0-SNAPSHOT
 nginx:1.22
 logstash:8.18.1
 kibana:8.18.1

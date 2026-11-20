@@ -8,3 +8,4 @@ minio/minio:latest
 nginx:1.22
 logstash:8.18.1
 kibana:8.18.1
+

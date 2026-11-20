@@ -1,1 +1,10 @@
-docker.io/library/python:3.9-slim
+maven:3.9-eclipse-temurin-17
+eclipse-temurin:17-jre
+mysql:5.7
+rabbitmq:3.9.11-management
+mongo:4
+elasticsearch:8.18.1
+minio/minio:latest
+nginx:1.22
+logstash:8.18.1
+kibana:8.18.1
